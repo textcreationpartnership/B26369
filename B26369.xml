@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The exchequer gallon vindicated to be the true and only standard gallon of England Against the unjust calumnies in a pamphlet, entituled, The cry of the oppressed, by reason of false measures. Written in behalf of the Commonwealth. Wherein is manifested, that the brewers are not forced to sell by one measure, and pay excise by another, as they pretend they are. But their vessels are gauged by that only standard gallon which is commanded to be used throughout the nation by Acts of Parliament in force, made by this and many precedent Parliaments; which gallon by those Acts is also appointed to be and remain for a standard in the Treasury or Exchequer for ever; to the end no deceit might be used by variety of measures in this nation. By John Lyon, Professor of Mathematicks, and a well-wisher of publique good.</title>
+            <author>Lyon, John, professor of mathematics.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26369</idno><idno type="EEBO-CITATION">99828686</idno>
+  <idno type="VID">207580</idno>
+  <idno type="EEBO-PROQUEST">2240853727</idno>
+  
+            <idno type="STC">Wing L3571B</idno>
+            <idno type="PROQUEST">99828686</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828686e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26369)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207580)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1916:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The exchequer gallon vindicated to be the true and only standard gallon of England Against the unjust calumnies in a pamphlet, entituled, The cry of the oppressed, by reason of false measures. Written in behalf of the Commonwealth. Wherein is manifested, that the brewers are not forced to sell by one measure, and pay excise by another, as they pretend they are. But their vessels are gauged by that only standard gallon which is commanded to be used throughout the nation by Acts of Parliament in force, made by this and many precedent Parliaments; which gallon by those Acts is also appointed to be and remain for a standard in the Treasury or Exchequer for ever; to the end no deceit might be used by variety of measures in this nation. By John Lyon, Professor of Mathematicks, and a well-wisher of publique good.</title>
+                  <author>Lyon, John, professor of mathematics.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Macock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Copy catalogued trimmed with slight loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">S. S. --  Cry of the oppressed --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Weights and measures --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207580:1"/>
+            <p>The Exchequer GALLON Vindicated To be the true and only Standard Gallon of <hi>ENGLAND.</hi>
+            </p>
+            <p>Against the unjust calumnies in a <hi>Pam<g ref="char:EOLhyphen"/>phlet,</hi> Entituled, <hi>The Cry of the Oppressed, by reason of false Measures.</hi>
+            </p>
+            <p>Written in behalf of the Commonwealth.</p>
+            <p>Wherein is manifested, That the Brewers are not forced to sell by one measure, and pay Excise by another, as they pretend they are. But their Vessels are Gauged by that only Standard Gallon which is commanded to be used throughout the Nation by Acts of Parliament in force, made by this and many pre<g ref="char:EOLhyphen"/>cedent Parliaments; which Gallon by those Acts is also appointed to be and remain for a Standard in the Treasury or Exchequer for ever; to the end no deceit might be used by variety of Measures in this Nation.</p>
+            <p>By <hi>John Lyon,</hi> Professor of <hi>Mathematicks,</hi> and a Well-wisher of Publique Good.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Macock,</hi> 1659.</p>
+            <pb facs="tcp:207580:2"/>
+            <pb facs="tcp:207580:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207580:3"/>
+            <pb facs="tcp:207580:3"/>
+            <p>IN the Brewers <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>per directed <hi>To the Right Honorable the Committee of Par<g ref="char:EOLhyphen"/>liament for Inspection,</hi> they cite <hi>Magna Charta,</hi> wherein they affirm it is said, <hi>Unum pondus &amp; una mensura fit per to<g ref="char:EOLhyphen"/>tum Regnum nostrum.</hi> Doth not those Acts of Parliament made in the ninth year of <hi>Henry</hi> the III. the seventeenth year of <hi>Edward</hi> the II. the 14, 25, and 27. years of <hi>Edward</hi> the III. the 14, 15, and 16. years of <hi>Richard</hi> the II. the 11, and 12. years of <hi>Henry</hi> the VII. and the 23. years of <hi>Henry</hi> the VIII. provide for the same thing; and to that end esta<g ref="char:EOLhyphen"/>blish one Standard Gallon, and also one Standard for all Weights and Measures, to be used throughout the Realm, to be and remain in the Treasury or Exchequer for ever? And to the end that no deceit might be used in variety of Measures, was not those Standards in the Exchequer further established by an Act of this present Parliament, in the year 1641. as it is in the 19. Chapter of M<seg rend="sup">r</seg>
+               <hi>Scobels</hi> Collections of Statutes, which is consonant and not con<g ref="char:EOLhyphen"/>trary to that Sacred Directory in <hi>Deut.</hi> 25.13, and 14. <hi>verses There shall not be diverse Weights and Measures, a great and a small, but a perfect and just Measure throughout the Land.</hi> Though the Brewers seem to affirm the justness of their complaint, by pretending two different Measures, com<g ref="char:EOLhyphen"/>plaining they are gauged by one Measure, and are forced to sell by another, pretending their loss in the Excise of Beer and Ale in <hi>London</hi> only, thereby to be 7000 l. <hi>per an.</hi> whereas they are gauged by that alone Measure which is justified by Law to sell by; only in policie some Brewers give greater Measure then others, and also undersell one another in the price of the Barrel of strong drink, on pur<g ref="char:EOLhyphen"/>pose to gain each others Customers, out of meer design and covetousness of Trade, when the Law doth not oblige them thereunto. Besides many or all of them have no sealed Gallons in their houses, that they may be at liberty herein.</p>
+            <p>And whereas in the first page of their Pamphlet, it is complained by the Brewers, that the Gaugers do not ob<g ref="char:EOLhyphen"/>serve
+<pb facs="tcp:207580:4"/>the Assize of Beer and Ale, as they are commanded by the Ordnance of the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment, made in the year 1643. Article 23. whereby the Brewer is to pay 2<seg rend="sup">s</seg>
+               <hi>per</hi> Barrel Excise, for every Barrel of strong Beer which is made and Brewed.</p>
+            <p>Surely it is meant such a Barrel of Beer as is established by Law, which Barrel is to contain just 36. of the Standard Gallons, or else above and not under (as it is in the foresaid Act, made in the 23. year of <hi>Henry</hi> the VIII.) By this word <hi>(above)</hi> certainly no unbiassed person can un<g ref="char:EOLhyphen"/>derstand, that Act ever intended the Barrel should be 37. Gallons, or as much bigger as the Cooper or Brewer plea<g ref="char:EOLhyphen"/>ses; but the Law provides for the contrary; for it saies in the same Act, That if any Vessel hold more or less then 36. Gallons, the Cooper is thereby directed on a penalty, to set the number of Gallons it contains on the outside thereof; and if it be less then a Barrel and hath not the number of Gallons on it, the Sealer may burn it.</p>
+            <p>Besides for further confirmation of the Exchequer Gal<g ref="char:EOLhyphen"/>lon, there hath been tried with water, by that Gallon, di<g ref="char:EOLhyphen"/>vers new barrels that are sealed in neer twenty Brewhouses in <hi>London,</hi> and the biggest of them have not held above 36. Gallons and 3. quarts, some but 36. gallons and a half, and some but 36. gallons and a quart, which had they been measured by the great gallon which the Brewers contend for, they had held little above 34. gallons; which shews that the Measure the Sealer seals the Barrels by, and that Measure at Coopers Hall the Brewers pretend they seal by, is not all one, and that the Sealer doth seal by the Exche<g ref="char:EOLhyphen"/>quer gallon, or else those Barrels could not be sealed but broke.</p>
+            <p>And whereas the Brewers are pleased to cite the 11. of <hi>Henry,</hi> the 7<seg rend="sup">th</seg> and 4. Chapter which they say (in the supple<g ref="char:EOLhyphen"/>ment to their book) declares by the express words in that Act, the proportion is as 5. to 4. for that the water Measure or bushel should hold 5. pecks of the Standard, and the
+<pb facs="tcp:207580:4"/>common measure or bushel but four pecks of the St<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>, which water measure by the same Statute is only to be sold within the ship-board; so it is hereby made manifestly to appear, that Beer and Ale is not to be sold by that measure, &amp; yet from hence they derive the foundation of their great gallon at <hi>Coopers</hi>-Hall, by dividing those 5 pecks into eight gallons or parts, &amp; thereby frame that measure they would have called the Ale-gallon: a gallon of which quantity was never established by any Law in any place of <hi>England;</hi> be<g ref="char:EOLhyphen"/>sides if one bushel contain 10 gallons, or 5 pecks, and ano<g ref="char:EOLhyphen"/>ther bushel contain 8 gallons, or 4 pecks, yet though the Law doth appoint two different bushels, that doth not make two different gallons; for there is but one gallon fixed by Law, and that is in the Exchequer, as aforesaid.</p>
+            <p>And for their saying 8 <hi>l.</hi> of wheat makes the wine gallon, Let any judge to what purpose it is to derive a gallon from the weight of wheat, when all the Statutes before recited fully clear that point, and shew where the Standard gallon shall reside, to which the whole Nation ought to conform, as doth the gallon in <hi>Guild</hi>-hall <hi>London,</hi> and in all the Cor<g ref="char:EOLhyphen"/>porations in <hi>England,</hi> which are fixed there by Law. And can it be presum'd that gallon in the Exchequer (so long practised as ever since the 16. of <hi>Ric.</hi> 2. being neer 300 years, as is seen by the fore-mentioned Statutes) is contrary in the contents thereof, to the true intent of so many Acts made for the constant confirmation thereof to this present time.</p>
+            <p>Nor as they alledge in the second page, doth any Statute speak of different Gallons to be found by proportion, al<g ref="char:EOLhyphen"/>though most absurdly it is said, according to the propor<g ref="char:EOLhyphen"/>tions they bear to it self, whereas no number can bear a proportion to its self; but the quantity of two different numbers or things, must be given to beget a proportion, and there is no Gallon established but of one quantity, and that is in the Exchequer. Besides not any Statute whatsoever doth so much as mention the word Proportion, that should be between any two or three Gallons.</p>
+            <pb facs="tcp:207580:5"/>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>n diversity of <hi>Specie<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> so as to establish different Gallons, as one for Corn, and another for Beer and Ale; I am sure they are not in the Ex<g ref="char:EOLhyphen"/>chequer; if they are in any other place, it is desired they would shew where they are, and by what Law so placed; for I conceive practice ought to be reduced to Law, and not Law to practise.</p>
+            <p>And in the third page, after the said Brewers have decla<g ref="char:EOLhyphen"/>red the Wine gallon to be the Standard gallon, then they begin to speak of an Ale gallon, bigger by one fifth part for the foulness of working, whereas there is but one Stan<g ref="char:EOLhyphen"/>dard gallon placed by any Statute Law, and that is in the Exchequer, as aforesaid. Neither is there any such thing as one fifth part more, expressed in any Statute whatsoe<g ref="char:EOLhyphen"/>ver, for the measure whereby the Ale or Beer barrel is made, is appointed to be the Standard Gallon, which all that know the Laws of this Nation, know it is only fixed in the Treasury, or Exchequer, as aforesaid: And for the scantling of length and depth, or form of any Barrel, or other Vessel which the Cooper is to make, that scantling or any whatsoever, is not commanded by any Statute Law ex<g ref="char:EOLhyphen"/>tant, only (as aforesaid) they are obliged to make the Bar<g ref="char:EOLhyphen"/>rel so that it must hold 36 of the Standard Gallons, unless it be in that Treatise called <hi>Compositio Mensurarum,</hi> the sub<g ref="char:EOLhyphen"/>stance of which they know not, for they themselves confess it is not in being, nor did any man living ever see it, Also they confess, that in <hi>Henry</hi> the sevenths time a Standard Gallon, according to the Assize for dry things, was placed in the Exchequer: Now if that Standard Gallon be not al<g ref="char:EOLhyphen"/>so fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Liquids, as Beer and Ale, it is desired they shew a Standard Gallon in any other pl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce; and yet before they said there was no Standard Gallon in the Exchequer but the wine Gallon, and that was the Standard of <hi>England:</hi> so that by this time they seem to find two different Gallons in the said Exchequer; which how true this is, any judicious man may go and try, where he shall find their supposition to be false.</p>
+            <pb facs="tcp:207580:5"/>
+            <p> And those who have most accurately tryed the quantity of that established Gallon, know their suggestions are contra<g ref="char:EOLhyphen"/>ry to truth, and have found but one Standard Gallon there, and that doth contain just 272 Cubical or solid Inches.</p>
+            <p>And in the fourth page they say a <hi>Winchester</hi> bushel holds 16 Ale quarts, or <hi>Winchester</hi> quarts; I am confident there is not in any Act of Parliament in all the Statutes at large, either the name of a <hi>Winchester</hi> bushel, or <hi>Winchester</hi> Gal<g ref="char:EOLhyphen"/>lon, or <hi>Winchester</hi> quart: But in. <hi>Primo Jacobi</hi> it was Enacted That the Victualler should sell a full Ale quart for a peny; but not one word in that, or any Statute, that four of those quarts should fill the Standard gallon (though I believe it doth) yet if three of those quarts did but fill the Standard gallon, it doth not invalid that Standard Gallon by any Law, but that the Barrel was to be made to contain 36 of those Standard gallons. Besides, as to the measure of the barrel, the Law doth not refer either to the Ale quart, or Bushel, but to the gallon, firkin, or kinderkin; which if the gallon were made by 4 of those quarts, as the Brewer would have the gallon made by (there being no Law extant that leads thereto) besides the trouble and charge of alter<g ref="char:EOLhyphen"/>ing and placing new gallons in all the several Towns cor<g ref="char:EOLhyphen"/>porate in <hi>England,</hi> the Commonwealth would be damnifi<g ref="char:EOLhyphen"/>ed in the Excise of Beer and Ale in <hi>London</hi> onely, about 7000 <hi>l.</hi> yearly, and in the Nations about 40000 <hi>l.</hi> yearly: And in the same page they say; the assize is still kept up by the tradition of the Coopers scan<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ling: I pray by what esta<g ref="char:EOLhyphen"/>blished Law is that <hi>Coopers</hi> scantling? I believe you will as soon find it, as you will that Treatise called <hi>Compositio Men<g ref="char:EOLhyphen"/>surarum,</hi> for <hi>tempus edax rerum</hi> hath swallowed it up also. And though in pag 5. they are pleased to call M. <hi>Lyon</hi> a no<g ref="char:EOLhyphen"/>vice in the <hi>Art of Gauging,</hi> yet he hath more experimented the Standard gallon of <hi>England</hi> residing in the Exchequer, then any of his accusers, &amp; that may be seen by their calling the Standard gallon in the Exchequer the Wine gallon, and they give this reason, for that it is the least of gallons; and
+<pb facs="tcp:207580:6"/>that their mistake may further be seen (as this case is) it is not how many cubical inches a gallon contains (for which end they brought many Artists to prove the gallon was to be 288¾ inches, none of them ever seeing any original Standard gallon in their lives, as themselves confessed) But which is the Standard gallon of <hi>England,</hi> and where it is placed, and by what Law so established, and whether there be one or many Standard gallons established by Law; then it is easie to know the quantity thereof, and not to trouble themselves about the proportions of 3 several gallons one to another, when there is but one gallon as aforesaid established by Law and not the word proportion used in any Statute. It being most absurd for the Brewers to offer to justify that gallon of 288¾ cubical inches, when there is no such gallon in any Corporation in <hi>England</hi> placed there by any Statute Law; only that placed (at will) in <hi>Coopers</hi>-Hall, without any esta<g ref="char:EOLhyphen"/>blished authority.</p>
+            <p>And had the Brewers vessels been Gauged by any other gallon then the aforesaid gallon in the Exchequer, the said <hi>Lyon</hi> had then not only acted to accommodate the illegal ends of the Complainants, but utterly contrary to the esta<g ref="char:EOLhyphen"/>blished Law in that behalf, and in breach of the trust reposed in him.</p>
+            <p>But if it shall please the Parliament to alter those Laws al<g ref="char:EOLhyphen"/>ready made, and confirm another gallon of any quantity they shall determine of, he the said <hi>Lyon</hi> shall be ready (being by Authority thereunto directed) from the same Dimensi<g ref="char:EOLhyphen"/>ons he now hath of all the Brewers Vessels in <hi>London,</hi> to cast up the exact quantities thereof, as accurately as he hath for<g ref="char:EOLhyphen"/>merly done by the Exchequer gall<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, whereby he hath experimented his knowledge, by the tryal of several Tuns with water, in neer 20 Brewhouses, wherein he hath alwaies been careful rather to under, then over Gauge them, accord<g ref="char:EOLhyphen"/>ing to the Legal gallon, as hath been found upon proof.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207580:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
